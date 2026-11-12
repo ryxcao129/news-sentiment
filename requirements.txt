@@ -1,0 +1,8 @@
+transformers>=4.40
+datasets
+pandas>=2.0
+numpy
+scipy
+scikit-learn
+matplotlib
+yfinance

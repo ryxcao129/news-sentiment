@@ -1,0 +1,5 @@
+{
+  "device": "cuda",
+  "epochs": 3,
+  "base_model": "ProsusAI/finbert"
+}

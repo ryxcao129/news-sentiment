@@ -1,0 +1,16 @@
+# Python
+__pycache__/
+*.pyc
+.venv/
+venv/
+.ipynb_checkpoints/
+# Secrets - never commit
+.env
+local_secrets.py
+# Local tooling
+.claude/
+.cache/
+
+# Large data/model artifacts (see README for how to download/regenerate)
+data/
+models/
